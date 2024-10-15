@@ -1,8 +1,10 @@
-# Hey.
+# Hey :)
 
 <br/>
 <br/>
-### Check out my [Website](https://www.josephadams.io).
+
+<h3 style="text-align: center;">Check out my [Website](https://www.josephadams.io).</h3>
+
 <br/>
 <br/>
 
