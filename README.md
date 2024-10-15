@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-<h3 style="text-align:center;">Check out my <a href="https://www.josephadams.io">Website</a>.</h3>
+<center>Check out my <a href="https://www.josephadams.io">Website</a>.</center>
 
 <br/>
 <br/>
