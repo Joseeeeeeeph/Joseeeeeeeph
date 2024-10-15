@@ -1,9 +1,9 @@
-# Hey :)
+# Hey&#8195;:)
 
 <br/>
 <br/>
 
-<h3 align="justify>Check out my <a href="https://www.josephadams.io">Website</a>.</h3>
+<h3 align="center">Check out my <a href="https://www.josephadams.io">Website</a>.</h3>
 
 <br/>
 <br/>
