@@ -9,7 +9,10 @@
 <br/>
 
 ## Stats:
-[![Joseeeeeeeph's github stats](https://github-readme-stats.vercel.app/api?username=Joseeeeeeeph&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Joseeeeeeeph/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseeeeeeeph&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&langs_count=3&custom_title=Top_3_Languages)](https://github.com/Joseeeeeeeph/github-readme-stats)
+<p align="center"><a href="https://github.com/Joseeeeeeeph/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Joseeeeeeeph&include_all_commits=true&count_private=true&show_icons=true&line_height=22&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117" alt="Joseeeeeeeph's GitHub stats"></a>
+<a href="https://github.com/Joseeeeeeeph/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseeeeeeeph&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&langs_count=3&hide_title=true" alt="Top Languages"></a></p>
 <br/>
 <br/>
 
