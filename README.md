@@ -9,7 +9,7 @@
 <br/>
 
 ## Stats:
-[![Joseeeeeeeph's github stats](https://github-readme-stats.vercel.app/api?username=Joseeeeeeeph&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Joseeeeeeeph/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseeeeeeeph&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&langs_count=2&custom_title=2\ Most\ Used\ Languages)](https://github.com/Joseeeeeeeph/github-readme-stats)
+[![Joseeeeeeeph's github stats](https://github-readme-stats.vercel.app/api?username=Joseeeeeeeph&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Joseeeeeeeph/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseeeeeeeph&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&langs_count=2&hide_title)](https://github.com/Joseeeeeeeph/github-readme-stats)
 <br/>
 <br/>
 
